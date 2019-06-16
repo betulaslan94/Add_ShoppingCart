@@ -1,0 +1,9 @@
+C:\Users\Betül\source\repos\Ciceksepeti\Ciceksepeti.Core\bin\Debug\netcoreapp2.1\Ciceksepeti.Core.deps.json
+C:\Users\Betül\source\repos\Ciceksepeti\Ciceksepeti.Core\bin\Debug\netcoreapp2.1\Ciceksepeti.Core.dll
+C:\Users\Betül\source\repos\Ciceksepeti\Ciceksepeti.Core\bin\Debug\netcoreapp2.1\Ciceksepeti.Core.pdb
+C:\Users\Betül\source\repos\Ciceksepeti\Ciceksepeti.Core\obj\Debug\netcoreapp2.1\Ciceksepeti.Core.csprojAssemblyReference.cache
+C:\Users\Betül\source\repos\Ciceksepeti\Ciceksepeti.Core\obj\Debug\netcoreapp2.1\Ciceksepeti.Core.csproj.CoreCompileInputs.cache
+C:\Users\Betül\source\repos\Ciceksepeti\Ciceksepeti.Core\obj\Debug\netcoreapp2.1\Ciceksepeti.Core.AssemblyInfoInputs.cache
+C:\Users\Betül\source\repos\Ciceksepeti\Ciceksepeti.Core\obj\Debug\netcoreapp2.1\Ciceksepeti.Core.AssemblyInfo.cs
+C:\Users\Betül\source\repos\Ciceksepeti\Ciceksepeti.Core\obj\Debug\netcoreapp2.1\Ciceksepeti.Core.dll
+C:\Users\Betül\source\repos\Ciceksepeti\Ciceksepeti.Core\obj\Debug\netcoreapp2.1\Ciceksepeti.Core.pdb
