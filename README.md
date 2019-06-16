@@ -1,6 +1,5 @@
 # Add_ShoppingCart
 
-# Shopping Cart
 Bir e-ticaret sitesi için sepete ürün ekleme özelliğini barındıran bir projedir.
 Projede aşağıdaki teknoloji ve yazılım pratikleri uygulanmıştır;
 * .Net Core 2.1 
